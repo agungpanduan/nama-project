@@ -1,0 +1,9 @@
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\bin\Debug\Logika_Basic.exe.config
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.csprojResolveAssemblyReference.cache
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.Properties.Resources.resources
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.csproj.GenerateResource.Cache
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\bin\Debug\Logika_Basic.exe
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\bin\Debug\Logika_Basic.pdb
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.exe
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.pdb
+E:\AGUNG FILE\MY PROGRAMMER REFERENSI\Visual C_Sharp\1_Logika_Basic_C_Sharp\Logika_Basic\Logika_Basic\obj\Debug\Logika_Basic.Form1.resources
